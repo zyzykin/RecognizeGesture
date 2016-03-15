@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecognizeGesture.CSharp.Plugins", "RecognizeGesture.CSharp.Plugins.csproj", "{10E6CB62-7B1B-DA01-0781-0566D4C17C8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecognizeGesture.CSharp", "RecognizeGesture.CSharp.csproj", "{B5F500A4-F72C-B7BD-FA3D-E079E6025197}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecognizeGesture.CSharp.Editor.Plugins", "RecognizeGesture.CSharp.Editor.Plugins.csproj", "{2041313F-CB30-3E14-F792-E10E82757545}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecognizeGesture.CSharp.Editor", "RecognizeGesture.CSharp.Editor.csproj", "{468D5E47-5026-D4B5-61A0-D9BE0123453A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10E6CB62-7B1B-DA01-0781-0566D4C17C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E6CB62-7B1B-DA01-0781-0566D4C17C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E6CB62-7B1B-DA01-0781-0566D4C17C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E6CB62-7B1B-DA01-0781-0566D4C17C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5F500A4-F72C-B7BD-FA3D-E079E6025197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F500A4-F72C-B7BD-FA3D-E079E6025197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F500A4-F72C-B7BD-FA3D-E079E6025197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F500A4-F72C-B7BD-FA3D-E079E6025197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2041313F-CB30-3E14-F792-E10E82757545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2041313F-CB30-3E14-F792-E10E82757545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2041313F-CB30-3E14-F792-E10E82757545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2041313F-CB30-3E14-F792-E10E82757545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{468D5E47-5026-D4B5-61A0-D9BE0123453A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468D5E47-5026-D4B5-61A0-D9BE0123453A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468D5E47-5026-D4B5-61A0-D9BE0123453A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468D5E47-5026-D4B5-61A0-D9BE0123453A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
